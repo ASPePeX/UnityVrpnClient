@@ -1,0 +1,3 @@
+[submodule "includes/submodules/vrpn"]
+	path = includes/submodules/vrpn
+	url = https://github.com/vrpn/vrpn
